@@ -1,5 +1,5 @@
 # misc-code
-Miscellaneous code to do specific tasks, written by Michael Erb.
+Miscellaneous code to do specific tasks, written by Michael Erb, postdoctoral scholar at Northern Arizona University.
 
 All code is presented as-is, without guarantee of any kind.  If you notice any error, please email Michael.Erb@nau.edu.
 
