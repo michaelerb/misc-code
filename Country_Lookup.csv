@@ -1,0 +1,281 @@
+Country_ID,Country_Name,Country_Name_Legacy,Region,Annex I,Collection
+4,Afghanistan,AFGHANISTAN,Asia Pacific,FALSE,
+8,Albania,ALBANIA,Europe,FALSE,
+12,Algeria,ALGERIA,Africa,FALSE,
+16,American Samoa,AMERICAN SAMOA,Asia Pacific,FALSE,United States
+20,Andorra,ANDORRA,Europe,FALSE,
+24,Angola,ANGOLA,Africa,FALSE,
+28,Antigua and Barbuda,ANTIGUA & BARBUDA,South and Central America,FALSE,Leeward Islands
+31,Azerbaijan,AZERBAIJAN,Commonwealth of Independent States,FALSE,USSR
+32,Argentina,ARGENTINA,South and Central America,FALSE,
+36,Australia,AUSTRALIA,Asia Pacific,TRUE,
+40,Austria,AUSTRIA,Europe,TRUE,
+44,Bahamas,BAHAMAS,South and Central America,FALSE,
+48,Bahrain,BAHRAIN,Middle East,FALSE,
+50,Bangladesh,BANGLADESH,Asia Pacific,FALSE,Pakistan
+51,Armenia,ARMENIA,Commonwealth of Independent States,FALSE,USSR
+52,Barbados,BARBADOS,South and Central America,FALSE,
+56,Belgium,BELGIUM,Europe,TRUE,
+60,Bermuda,BERMUDA,South and Central America,FALSE,
+64,Bhutan,BHUTAN,Asia Pacific,FALSE,
+68,Bolivia (Plurinational State of),PLURINATIONAL STATE OF BOLIVIA,South and Central America,FALSE,
+70,Bosnia and Herzegovina,BOSNIA & HERZEGOVINA,Europe,FALSE,
+72,Botswana,BOTSWANA,Africa,FALSE,
+76,Brazil,BRAZIL,South and Central America,FALSE,
+81,Antarctic Fisheries,ANTARCTIC FISHERIES,Antarctica,FALSE,
+84,Belize,BELIZE,South and Central America,FALSE,
+90,Solomon Islands,SOLOMON ISLANDS,Asia Pacific,FALSE,
+92,British Virgin Islands,BRITISH VIRGIN ISLANDS,South and Central America,FALSE,Leeward Islands
+96,Brunei Darussalam,BRUNEI (DARUSSALAM),Asia Pacific,FALSE,
+100,Bulgaria,BULGARIA,Europe,TRUE,
+104,Myanmar,MYANMAR (FORMERLY BURMA),Asia Pacific,FALSE,
+108,Burundi,BURUNDI,Africa,FALSE,Ruanda-Urundi
+112,Belarus,BELARUS,Commonwealth of Independent States,TRUE,USSR
+116,Cambodia,CAMBODIA,Asia Pacific,FALSE,French Indo-China
+120,Cameroon,REPUBLIC OF CAMEROON,Africa,FALSE,
+124,Canada,CANADA,North America,TRUE,
+132,Cabo Verde,CAPE VERDE,Africa,FALSE,
+136,Cayman Islands,CAYMAN ISLANDS,South and Central America,FALSE,
+140,Central African Republic,CENTRAL AFRICAN REPUBLIC,Africa,FALSE,French Equatorial Africa
+144,Sri Lanka,SRI LANKA,Asia Pacific,FALSE,
+148,Chad,CHAD,Africa,FALSE,French Equatorial Africa
+152,Chile,CHILE,South and Central America,FALSE,
+156,China,CHINA (MAINLAND),Asia Pacific,FALSE,
+158,Other Asia,TAIWAN,Asia Pacific,FALSE,
+162,Christmas Island,CHRISTMAS ISLAND,Asia Pacific,FALSE,
+170,Colombia,COLOMBIA,South and Central America,FALSE,
+172,Commonwealth of Independent States (CIS),COMMONWEALTH OF INDEPENDENT STATES (CIS),Commonwealth of Independent States,FALSE,
+174,Comoros,COMOROS,Africa,FALSE,
+175,Mayotte,MAYOTTE,Africa,FALSE,France
+178,Congo,CONGO,Africa,FALSE,French Equatorial Africa
+180,Democratic Republic of the Congo,DEMOCRATIC REPUBLIC OF THE CONGO (FORMERLY ZAIRE),Africa,FALSE,
+184,Cook Islands,COOK ISLANDS,Asia Pacific,FALSE,
+188,Costa Rica,COSTA RICA,South and Central America,FALSE,
+191,Croatia,CROATIA,Europe,TRUE,Yugoslavia
+192,Cuba,CUBA,South and Central America,FALSE,
+196,Cyprus,CYPRUS,Europe,TRUE,
+200,Czechoslovakia [former],CZECHOSLOVAKIA,Europe,FALSE,Czechoslovakia
+203,Czechia,CZECH REPUBLIC,Europe,TRUE,Czechoslovakia
+204,Benin,BENIN,Africa,FALSE,French West Africa
+208,Denmark,DENMARK,Europe,TRUE,
+212,Dominica,DOMINICA,South and Central America,FALSE,
+214,Dominican Republic,DOMINICAN REPUBLIC,South and Central America,FALSE,
+218,Ecuador,ECUADOR,South and Central America,FALSE,
+222,El Salvador,EL SALVADOR,South and Central America,FALSE,
+226,Equatorial Guinea,EQUATORIAL GUINEA,Africa,FALSE,
+230,Ethiopia [up to 1993],NA,Africa,FALSE,Ethiopia
+231,Ethiopia [from 1993],ETHIOPIA,Africa,FALSE,Ethiopia
+232,Eritrea,ERITREA,Africa,FALSE,
+233,Estonia,ESTONIA,Europe,TRUE,USSR
+234,Faeroe Islands,FAEROE ISLANDS,Europe,FALSE,
+238,Falkland Islands (Malvinas),FALKLAND ISLANDS (MALVINAS),South and Central America,FALSE,
+242,Fiji,FIJI,Asia Pacific,FALSE,
+246,Finland,FINLAND,Europe,TRUE,
+250,France,NA,NA,NA,France
+251,France incl. Monaco,FRANCE (INCLUDING MONACO),Europe,TRUE,France
+254,French Guiana,FRENCH GUIANA,South and Central America,FALSE,France
+258,French Polynesia,FRENCH POLYNESIA,Asia Pacific,FALSE,
+262,Djibouti,DJIBOUTI,Africa,FALSE,
+263,French Equatorial Africa,FRENCH EQUATORIAL AFRICA,Africa,FALSE,French Equatorial Africa
+265,French Indo-China,FRENCH INDO-CHINA,Asia Pacific,FALSE,French Indo-China
+266,Gabon,GABON,Africa,FALSE,French Equatorial Africa
+267,French West Africa,FRENCH WEST AFRICA,Africa,FALSE,French West Africa
+268,Georgia,GEORGIA,Europe,FALSE,USSR
+270,Gambia,GAMBIA,Africa,FALSE,
+275,State of Palestine,OCCUPIED PALESTINIAN TERRITORY,Middle East,FALSE,
+276,Germany,GERMANY,Europe,TRUE,Germany
+278,German Democratic Republic [former],FORMER GERMAN DEMOCRATIC REPUBLIC,Europe,FALSE,Germany
+280,"Germany, Federal Republic of",FEDERAL REPUBLIC OF GERMANY,Europe,FALSE,Germany
+288,Ghana,GHANA,Africa,FALSE,
+292,Gibraltar,GIBRALTAR,Europe,FALSE,
+296,Kiribati,KIRIBATI,Asia Pacific,FALSE,
+300,Greece,GREECE,Europe,TRUE,
+304,Greenland,GREENLAND,North America,FALSE,
+308,Grenada,GRENADA,South and Central America,FALSE,
+312,Guadeloupe,GUADELOUPE,South and Central America,FALSE,France
+316,Guam,GUAM,Asia Pacific,FALSE,United States
+320,Guatemala,GUATEMALA,South and Central America,FALSE,
+324,Guinea,GUINEA,Africa,FALSE,French West Africa
+328,Guyana,GUYANA,South and Central America,FALSE,
+332,Haiti,HAITI,South and Central America,FALSE,
+336,Holy See,NA,NA,NA,Italy
+340,Honduras,HONDURAS,South and Central America,FALSE,
+344,"China, Hong Kong Special Administrative Region",HONG KONG SPECIAL ADMINSTRATIVE REGION OF CHINA,Asia Pacific,FALSE,
+348,Hungary,HUNGARY,Europe,TRUE,
+352,Iceland,ICELAND,Europe,TRUE,
+356,India,INDIA,Asia Pacific,FALSE,
+360,Indonesia,INDONESIA,Asia Pacific,FALSE,Indonesia
+364,Iran (Islamic Republic of),ISLAMIC REPUBLIC OF IRAN,Middle East,FALSE,
+368,Iraq,IRAQ,Middle East,FALSE,
+372,Ireland,IRELAND,Europe,TRUE,
+376,Israel,ISRAEL,Middle East,FALSE,
+380,Italy,NA,NA,NA,Italy
+382,Italy and San Marino,ITALY (INCLUDING SAN MARINO),Europe,TRUE,Italy
+384,Cote d'Ivoire,COTE D IVOIRE,Africa,FALSE,French West Africa
+388,Jamaica,JAMAICA,South and Central America,FALSE,
+392,Japan,JAPAN,Asia Pacific,TRUE,Japan
+393,Japan [exc. Okinawa],JAPAN (EXCLUDING THE RUYUKU ISLANDS),Asia Pacific,TRUE,Japan
+398,Kazakhstan,KAZAKHSTAN,Commonwealth of Independent States,FALSE,USSR
+400,Jordan,JORDAN,Middle East,FALSE,
+404,Kenya,KENYA,Africa,FALSE,
+408,Democratic People's Republic of Korea,DEMOCRATIC PEOPLE S REPUBLIC OF KOREA,Asia Pacific,FALSE,
+409,United Korea,UNITED KOREA,Asia Pacific,FALSE,
+410,Republic of Korea,REPUBLIC OF KOREA,Asia Pacific,FALSE,
+412,Kosovo,KOSOVO,Europe,FALSE,Yugoslavia
+414,Kuwait,KUWAIT,Middle East,FALSE,
+416,Kuwaiti Oil Fires,KUWAITI OIL FIRES,Middle East,FALSE,
+417,Kyrgyzstan,KYRGYZSTAN,Commonwealth of Independent States,FALSE,USSR
+418,Lao People's Democratic Republic,LAO PEOPLE S DEMOCRATIC REPUBLIC,Asia Pacific,FALSE,French Indo-China
+422,Lebanon,LEBANON,Middle East,FALSE,
+423,Leeward Islands,LEEWARD ISLANDS,South and Central America,FALSE,Leeward Islands
+426,Lesotho,LESOTHO,Africa,FALSE,
+428,Latvia,LATVIA,Europe,TRUE,USSR
+430,Liberia,LIBERIA,Africa,FALSE,
+434,Libya,LIBYAN ARAB JAMAHIRIYAH,Africa,FALSE,
+438,Liechtenstein,LIECHTENSTEIN,Europe,TRUE,Switzerland
+440,Lithuania,LITHUANIA,Europe,TRUE,USSR
+442,Luxembourg,LUXEMBOURG,Europe,TRUE,
+446,"China, Macao Special Administrative Region",MACAU SPECIAL ADMINSTRATIVE REGION OF CHINA,Asia Pacific,FALSE,
+450,Madagascar,MADAGASCAR,Africa,FALSE,
+454,Malawi,MALAWI,Africa,FALSE,Rhodesia-Nyasaland
+455,"Federation of Malaya, Sabah, Sarawak and Singapore",FEDERATION OF MALAYA-SINGAPORE,Asia Pacific,FALSE,Malaysia
+457,"Malaysia, Sarawak",SARAWAK,Asia Pacific,FALSE,Malaysia
+458,Malaysia,MALAYSIA,Asia Pacific,FALSE,Malaysia
+459,Malaysia (Peninsular),PENINSULAR MALAYSIA,Asia Pacific,FALSE,Malaysia
+461,"Malaysia, Sabah",SABAH,Asia Pacific,FALSE,Malaysia
+462,Maldives,MALDIVES,Asia Pacific,FALSE,
+466,Mali,MALI,Africa,FALSE,French West Africa
+470,Malta,MALTA,Europe,TRUE,
+474,Martinique,MARTINIQUE,South and Central America,FALSE,France
+478,Mauritania,MAURITANIA,Africa,FALSE,French West Africa
+480,Mauritius,MAURITIUS,Africa,FALSE,
+484,Mexico,MEXICO,North America,FALSE,
+492,Monaco,NA,NA,NA,France
+496,Mongolia,MONGOLIA,Asia Pacific,FALSE,
+498,Republic of Moldova,REPUBLIC OF MOLDOVA,Commonwealth of Independent States,FALSE,USSR
+499,Montenegro,MONTENEGRO,Europe,FALSE,Yugoslavia
+500,Montserrat,MONTSERRAT,South and Central America,FALSE,Leeward Islands
+504,Morocco,MOROCCO,Africa,FALSE,
+508,Mozambique,MOZAMBIQUE,Africa,FALSE,
+512,Oman,OMAN,Middle East,FALSE,
+516,Namibia,NAMIBIA,Africa,FALSE,
+520,Nauru,NAURU,Asia Pacific,FALSE,
+524,Nepal,NEPAL,Asia Pacific,FALSE,
+528,"Netherlands, Kingdom of the",NETHERLANDS,Europe,TRUE,Netherlands
+530,Netherlands Antilles,NETHERLAND ANTILLES,South and Central America,FALSE,Netherlands
+531,Curaçao,CURACAO,South and Central America,FALSE,Netherlands
+532,Netherlands Antilles and Aruba,NETHERLAND ANTILLES AND ARUBA,South and Central America,FALSE,Netherlands
+533,Aruba,ARUBA,South and Central America,FALSE,Netherlands
+534,Sint Maarten (Dutch part),SAINT MARTIN (DUTCH PORTION),South and Central America,FALSE,Netherlands
+535,"Bonaire, Sint Eustatius and Saba","BONAIRE, SAINT EUSTATIUS, AND SABA",South and Central America,FALSE,Netherlands
+540,New Caledonia,NEW CALEDONIA,Asia Pacific,FALSE,
+548,Vanuatu,VANUATU,Asia Pacific,FALSE,
+554,New Zealand,NEW ZEALAND,Asia Pacific,TRUE,
+558,Nicaragua,NICARAGUA,South and Central America,FALSE,
+562,Niger,NIGER,Africa,FALSE,French West Africa
+566,Nigeria,NIGERIA,Africa,FALSE,
+570,Niue,NIUE,Asia Pacific,FALSE,
+578,Norway,NA,NA,NA,Norway
+579,Norway including Svalbard and Jan Mayen Islands,NORWAY,Europe,TRUE,Norway
+580,Northern Mariana Islands,NORTHERN MARIANA ISLANDS,Asia Pacific,FALSE,Pacific Islands
+582,Pacific Islands (Trust Territory),PACIFIC ISLANDS (PALAU),Asia Pacific,FALSE,Pacific Islands
+583,"Micronesia, Federated States of",FEDERATED STATES OF MICRONESIA,Asia Pacific,FALSE,Pacific Islands
+584,Marshall Islands,MARSHALL ISLANDS,Asia Pacific,FALSE,Pacific Islands
+585,Palau,PALAU,Asia Pacific,FALSE,Pacific Islands
+586,Pakistan,PAKISTAN,Asia Pacific,FALSE,Pakistan
+588,East and West Pakistan,EAST & WEST PAKISTAN,Asia Pacific,FALSE,Pakistan
+590,Panama [exc. Canal Zone],PANAMA,South and Central America,FALSE,Panama
+591,Panama,PANAMA,South and Central America,FALSE,Panama
+592,Panama Canal Zone,FORMER PANAMA CANAL ZONE,South and Central America,FALSE,Panama
+598,Papua New Guinea,PAPUA NEW GUINEA,Asia Pacific,FALSE,
+600,Paraguay,PARAGUAY,South and Central America,FALSE,
+604,Peru,PERU,South and Central America,FALSE,
+608,Philippines,PHILIPPINES,Asia Pacific,FALSE,
+616,Poland,POLAND,Europe,TRUE,
+620,Portugal,PORTUGAL,Europe,TRUE,
+624,Guinea-Bissau,GUINEA BISSAU,Africa,FALSE,
+626,Timor-Leste,TIMOR-LESTE (FORMERLY EAST TIMOR),Asia Pacific,FALSE,Indonesia
+630,Puerto Rico,PUERTO RICO,South and Central America,FALSE,United States
+634,Qatar,QATAR,Middle East,FALSE,
+638,Reunion,REUNION,Africa,FALSE,France
+642,Romania,ROMANIA,Europe,TRUE,
+643,Russian Federation,RUSSIAN FEDERATION,Commonwealth of Independent States,TRUE,USSR
+645,Ruanda-Urundi,RWANDA-URUNDI,Africa,FALSE,Ruanda-Urundi
+646,Rwanda,RWANDA,Africa,FALSE,Ruanda-Urundi
+647,Okinawa,RYUKYU ISLANDS,Asia Pacific,FALSE,Japan
+652,Saint Barthélemy,SAINT BARTHELEMY,South and Central America,FALSE,France
+654,Saint Helena,SAINT HELENA,Africa,FALSE,
+658,St. Kitts-Nevis-Anguilla,ST. KITTS-NEVIS-ANGUILLA,South and Central America,FALSE,Leeward Islands
+659,Saint Kitts and Nevis,ST. KITTS-NEVIS,South and Central America,FALSE,Leeward Islands
+660,Anguilla,ANGUILLA,South and Central America,FALSE,Leeward Islands
+662,Saint Lucia,SAINT LUCIA,South and Central America,FALSE,
+663,Saint Martin (French Part),SAINT MARTIN (French part),South and Central America,FALSE,France
+666,Saint Pierre and Miquelon,ST. PIERRE & MIQUELON,North America,FALSE,
+670,Saint Vincent and the Grenadines,ST. VINCENT & THE GRENADINES,South and Central America,FALSE,
+674,San Marino,NA,NA,NA,Italy
+678,Sao Tome and Principe,SAO TOME & PRINCIPE,Africa,FALSE,
+682,Saudi Arabia,SAUDI ARABIA,Middle East,FALSE,
+686,Senegal,SENEGAL,Africa,FALSE,French West Africa
+688,Serbia,SERBIA,Europe,FALSE,Yugoslavia
+690,Seychelles,SEYCHELLES,Africa,FALSE,
+694,Sierra Leone,SIERRA LEONE,Africa,FALSE,
+702,Singapore,SINGAPORE,Asia Pacific,FALSE,Malaysia
+703,Slovakia,SLOVAKIA,Europe,TRUE,Czechoslovakia
+704,Viet Nam,VIET NAM,Asia Pacific,FALSE,French Indo-China
+705,Slovenia,SLOVENIA,Europe,TRUE,Yugoslavia
+706,Somalia,SOMALIA,Africa,FALSE,
+710,South Africa,SOUTH AFRICA,Africa,FALSE,
+711,Southern African Customs Union (SACU),CUSTOMS UNION OF SOUTH AFRICA,Africa,FALSE,
+716,Zimbabwe,ZIMBABWE,Africa,FALSE,Rhodesia-Nyasaland
+717,Rhodesia-Nyasaland,RHODESIA-NYASALAND,Africa,FALSE,Rhodesia-Nyasaland
+720,Democratic Yemen [former],FORMER DEMOCRATIC YEMEN,Middle East,FALSE,Yemen
+724,Spain,SPAIN,Europe,TRUE,
+728,South Sudan,REPUBLIC OF SOUTH SUDAN,Africa,FALSE,Sudan
+729,Sudan,REPUBLIC OF SUDAN,Africa,FALSE,Sudan
+732,Western Sahara,WESTERN SAHARA,Africa,FALSE,
+736,Sudan [up to 2011],SUDAN,Africa,FALSE,Sudan
+740,Suriname,SURINAME,South and Central America,FALSE,
+748,Eswatini,SWAZILAND,Africa,FALSE,
+752,Sweden,SWEDEN,Europe,TRUE,
+756,Switzerland,NA,NA,NA,Switzerland
+757,Switzerland-Liechtenstein,SWITZERLAND,Europe,TRUE,Switzerland
+760,Syrian Arab Republic,SYRIAN ARAB REPUBLIC,Middle East,FALSE,
+762,Tajikistan,TAJIKISTAN,Commonwealth of Independent States,FALSE,USSR
+764,Thailand,THAILAND,Asia Pacific,FALSE,
+768,Togo,TOGO,Africa,FALSE,French West Africa
+772,Tokelau,NA,NA,NA,
+776,Tonga,TONGA,Asia Pacific,FALSE,
+780,Trinidad and Tobago,TRINIDAD AND TOBAGO,South and Central America,FALSE,
+784,United Arab Emirates,UNITED ARAB EMIRATES,Middle East,FALSE,
+788,Tunisia,TUNISIA,Africa,FALSE,
+792,Türkiye,TURKEY,Europe,TRUE,
+795,Turkmenistan,TURKMENISTAN,Commonwealth of Independent States,FALSE,USSR
+796,Turks and Caicos Islands,TURKS AND CAICOS ISLANDS,South and Central America,FALSE,
+798,Tuvalu,TUVALU,Asia Pacific,FALSE,
+800,Uganda,UGANDA,Africa,FALSE,
+804,Ukraine,UKRAINE,Europe,TRUE,USSR
+807,The former Yugoslav Republic of Macedonia,MACEDONIA,Europe,FALSE,
+810,Union of Soviet Socialist Republics [former],USSR,USSR,FALSE,USSR
+818,Egypt,EGYPT,Africa,FALSE,
+826,United Kingdom,UNITED KINGDOM,Europe,TRUE,United Kingdom
+831,Guernsey,GUERNSEY,Europe,FALSE,
+832,Jersey,JERSEY,Europe,FALSE,
+833,Isle of Man,ISLE OF MAN,Europe,FALSE,United Kingdom
+834,United Republic of Tanzania,UNITED REPUBLIC OF TANZANIA,Africa,FALSE,Zanibar
+835,Tanganyika,TANGANYIKA,Africa,FALSE,Zanibar
+836,Zanzibar,ZANZIBAR,Africa,FALSE,Zanibar
+840,United States,UNITED STATES OF AMERICA,North America,TRUE,United States
+850,United States Virgin Islands,U.S. VIRGIN ISLANDS,South and Central America,FALSE,United States
+854,Burkina Faso,BURKINA FASO,Africa,FALSE,French West Africa
+858,Uruguay,URUGUAY,South and Central America,FALSE,
+860,Uzbekistan,UZBEKISTAN,Commonwealth of Independent States,FALSE,USSR
+862,Venezuela (Bolivarian Republic of),VENEZUELA,South and Central America,FALSE,
+866,"Viet Nam, Democratic Republic of",DEMOCRATIC REPUBLIC OF VIETNAM,Asia Pacific,FALSE,French Indo-China
+868,"South Viet-Nam, Republic of",REPUBLIC OF SOUTH VIETNAM,Asia Pacific,FALSE,French Indo-China
+876,Wallis and Futuna Islands,WALLIS AND FUTUNA ISLANDS,Asia Pacific,FALSE,France
+882,Samoa,SAMOA,Asia Pacific,FALSE,
+886,Yemen Arab Republic [former],FORMER YEMEN,Middle East,FALSE,Yemen
+887,Yemen,YEMEN,Middle East,FALSE,Yemen
+890,Yugoslavia [former Socialist Federal Republic],YUGOSLAVIA (FORMER SOCIALIST FEDERAL REPUBLIC),Europe,FALSE,Yugoslavia
+891,Serbia and Montenegro,YUGOSLAVIA (MONTENEGRO & SERBIA),Europe,FALSE,Yugoslavia
+894,Zambia,ZAMBIA,Africa,FALSE,Rhodesia-Nyasaland
