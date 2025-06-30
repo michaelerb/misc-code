@@ -1,0 +1,28 @@
+Product_ID,Product_Name,Fuel_Type,Unit,Production (01),"Production, refineries (013)","Production, plants (014)",Imports (03),Exports (04),Marine bunkers (051),Aviation bunkers (052),Stock changes (06),Flared and vented (104),Non-energy uses (11)
+AV,Aviation Gasoline,LF,WSR,399,399,,30,,,,-5,,
+BG,Blast Furnace Gas,GF,HSO,84384,,,,,,,,,
+BT,Bitumen,LF,WSR,19262,19262,,2809,1430,,,-51,,20785
+CL,Hard Coal,SF,WSR,217572,,,2614,58907,,,-8533,,
+CR,Conventional crude oil,LF,WSR,558049,,,291142,158176,,,8556,,
+DL,Gas Oil/ Diesel Oil,LF,WSR,223712,223712,,12266,59123,5422,,2988,,865
+EA,Ethane,LF,WSR,43103,130,42973,,5753,,,587,,36758
+FS,Refinery Feedstocks,LF,WSR,,,,28106,10935,,,-1573,,
+GG,Gasworks Gas,GF,HSO,54087,,,,,,,,,
+GL,Natural Gas Liquids,LF,WSR,145398,,,7,7592,,,1051,,
+JF,Kerosene-type Jet Fuel,LF,WSR,46971,46971,,7275,4659,,14875,-29,,
+KR,Other kerosene,LF,WSR,571,571,,47,285,,,-47,,
+LB,Brown Coal,SF,WSR,267752,,,2046,3750,,,6510,,
+LP,Liquified Petroleum Gas,LF,WSR,75281,8446,66835,4530,49141,,,-746,,24691
+LU,Lubricants,LF,WSR,7875,7875,,1871,4861,,,-423,,5306
+MO,Motor Gasoline,LF,WSR,314530,310974,3556,26588,33928,,,-827,,
+NG,Natural Gas (including LNG),GF,HSO,36649320,,,2799845,5781002,,,163753,370675,445976
+NP,Naphtha,LF,WSR,7258,7258,,649,,,,-14,,7921
+OG,Coke Oven Gas,GF,HSO,50229,,,,,,,,,
+OH,Other hydrocarbons,LF,WSR,,,,4,,,,0,,
+OK,Coke Oven Coke,SF,WSR,9392,,,147,620,,,37,,
+PK,Petroleum Coke,LF,WSR,50965,50965,,534,34493,,,-736,,
+PP,Other oil products n.e.c.,LF,WSR,11262,11262,,467,61,,,-559,,15545
+PW,Paraffin waxes,LF,WSR,175,175,,224,209,,,-22,,211
+RF,Fuel Oil,LF,WSR,11398,11398,,11866,8105,10531,,18,,
+RG,Refinery Gas,GF,WSR,13583,13583,,,,,,,,945
+WS,White spirit and special boiling point industrial spirits,LF,WSR,1370,1370,,544,,,,-19,,1933
